@@ -3,7 +3,7 @@ package pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import base.BaseTest;
+import base.*;
 
 public class AddToCartPage extends BaseTest {
 	By addToCart=By.id("add-to-cart-test.allthethings()-t-shirt-(red)");
